@@ -4,8 +4,7 @@ A complete authentication system which can be used as a starter code for creatin
 application
 
 
-https://amancantgit.github.io/Nodejs-Authentication/
-Click [here](https://amancantgit.github.io/Nodejs-Authentication/)
+Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
 
 
 ![image](https://i.ibb.co/R6qks43/Screenshot-2023-01-19-150311.png)
