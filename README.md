@@ -3,10 +3,6 @@
 A complete authentication system which can be used as a starter code for creating any new
 application
 
-https://amancantgit.github.io/Nodejs-Authentication/
-
-jkjk
-
 
 https://amancantgit.github.io/Nodejs-Authentication/
 
