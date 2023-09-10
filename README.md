@@ -12,7 +12,7 @@ Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
 
 
 
-# Technologies Used
+# Technologies Used :-
 
 ### For Frontend
 * HTML
@@ -31,7 +31,7 @@ Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
 
 
     
-## ***Features***
+### ***Features***
 
 - User can create account 
 - Password will store after Encryption in database
