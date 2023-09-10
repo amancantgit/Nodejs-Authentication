@@ -14,13 +14,13 @@ Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
 
 # Technologies Used :-
 
-### For Frontend
+### FrontEnd
 * HTML
 * CSS
 * JS
 * Bootstrap 
 
-### Backend and Database
+### BackEnd and Database
 
 * NodeJs
 * Express
