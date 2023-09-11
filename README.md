@@ -1,7 +1,7 @@
 
 # Authentication System
 A complete authentication system which can be used as a starter code for creating any new
-application
+application.
 
 
 Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
