@@ -12,7 +12,7 @@ Click [here](https://amancantgit.github.io/Nodejs-Authentication/) to open app.
 
 
 
-# Technologies Used :-
+## Technologies Used :
 
 ### FrontEnd
 * HTML
